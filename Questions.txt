@@ -1,0 +1,6 @@
+Please enter your name: <-> text
+Did you find the information included within this web site useful? <-> radio <-> 1 (Not at all) <+> 2 <+> 3 (Somewhat) <+> 4 <+> 5 (Extremely)
+Is the web site easy to navigate? <-> radio <-> 1 (Not at all) <+> 2 <+> 3 (Somewhat) <+> 4 <+> 5 (Extremely)
+Were you able to find the information you were looking for? <-> radio <-> 1 (No) <+> 2 (Yes) <+> 0 (N/A)
+What other information you would like to be included in the website? <-> textarea
+What suggestions you might have for our web site improvement? <-> textarea

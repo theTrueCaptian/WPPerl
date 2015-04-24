@@ -1,0 +1,56 @@
+0
+#&Q1&Q2&Q3&Q4&Q5&Q6
+0&
+1&Maeda
+2& 3 (Somewhat) 
+2& 3 (Somewhat) 
+2& 1 (Not at all) 
+3& 4 
+3&
+3& 3 (Somewhat) 
+4&
+5&Enter here
+6&Enter here
+0&
+1&yunus
+1& 1 (Not at all) 
+1&yolo
+2& 1 (Not at all) 
+3& 1 (Not at all) 
+4&
+5&Enter here
+5&Enter here
+4&Enter here
+4& 1 (No) 
+5&Enter here
+6&Enter here
+0&
+1&Barnie
+2& 1 (Not at all) 
+3& 2 
+4& 0 (N/A)
+5&I want more Dinos
+6&Pie charts
+0&
+1&Yisif
+2& 5 (Extremely)
+3& 4 
+4&
+5&Pizaa
+6&Pizza charts
+0&
+1&Yahya
+2& 3 (Somewhat) 
+2& 3 (Somewhat) 
+2& 2 
+3& 3 (Somewhat) 
+4& 0 (N/A)
+5&Google
+6&The solutions
+0&
+1&Adam
+2& 3 (Somewhat) 
+3& 2 
+4&
+5&No comment
+6&Eve
